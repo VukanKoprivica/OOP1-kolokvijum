@@ -1,0 +1,12 @@
+Legende, Scrum
+10
+junior,Milos,Milakovic,2303111999921,java
+junior,Djordje,Milosevic,2311159999212,python
+medior,Mico,Micic,3112159999212,scala,4
+senior,Lazar,Kitic,9336259999212,erlang,9
+medior,Milan,Milanic,7336257799212,java,5
+senior,Milos,Lazarevic,9336259999212,erlang,9
+junior,Jovan,Pavlovic,2103989111111,python
+junior,Maksim,Jovic,1103989111111,c
+medior,Pero,Zdero,1103949111111,c++,11
+senior,Miki,Djuricic,2205949111111,c#,7
